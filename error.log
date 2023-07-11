@@ -1,0 +1,31 @@
+INFO:root:start at 2023-07-11 17:08:29.023405
+ERROR:root:введено неверное количество параметров
+INFO:root:end at 2023-07-11 17:08:29.024410
+INFO:root:start at 2023-07-11 17:08:42.723688
+WARNING:root:это не треугольник
+INFO:root:end at 2023-07-11 17:08:42.725601
+INFO:root:start at 2023-07-11 17:08:49.031771
+INFO:root:равнобедренный
+INFO:root:end at 2023-07-11 17:08:49.033685
+INFO:root:start at 2023-07-11 17:09:19.776254
+WARNING:root:это не треугольник
+INFO:root:end at 2023-07-11 17:09:19.777135
+INFO:root:start at 2023-07-11 17:10:19.567628
+INFO:root:start at 2023-07-11 17:10:53.508990
+WARNING:root:это не треугольник
+INFO:root:end at 2023-07-11 17:10:53.510872
+INFO:root:start at 2023-07-11 17:11:35.757862
+WARNING:root:это не треугольник
+INFO:root:end at 2023-07-11 17:11:35.758761
+INFO:root:start at 2023-07-11 17:11:56.780654
+WARNING:root:это не треугольник
+INFO:root:end at 2023-07-11 17:11:56.781656
+INFO:root:start at 2023-07-11 17:12:35.588415
+WARNING:root:это не треугольник
+INFO:root:end at 2023-07-11 17:12:35.590411
+INFO:root:start at 2023-07-11 17:12:51.882997
+WARNING:root:это не треугольник
+INFO:root:end at 2023-07-11 17:12:51.884906
+INFO:root:start at 2023-07-11 17:13:44.143359
+WARNING:root:это не треугольник
+INFO:root:end at 2023-07-11 17:13:44.144364
